@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.new_assement.security_expenses.SecurityExpensesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.1 s - in com.new_assement.security_expenses.SecurityExpensesApplicationTests
